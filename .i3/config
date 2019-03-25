@@ -287,6 +287,7 @@ exec_always --no-startup-id ff-theme-util
 exec_always --no-startup-id fix_xcursor
 
 exec --no-startup-id xrandr --output LVDS1 --mode 1366x768
+exec --no-startup-id ~/dev/doti3/init.sh
 
 # Color palette used for the terminal ( ~/.Xresources file )
 # Colors are gathered based on the documentation:

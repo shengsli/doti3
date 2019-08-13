@@ -1,0 +1,8 @@
+#+title: doti3
+#+author: 
+#+date: 
+* Quick start: 
+#+BEGIN_SRC
+git clone git@github.com:shengsli/doti3.git ~/
+bash config.sh
+#+END_SRC
